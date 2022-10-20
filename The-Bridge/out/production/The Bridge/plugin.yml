@@ -1,0 +1,5 @@
+name: EvhiBridge
+author: EVHILIKO972
+version: 1.0-Bêta
+api-version: 1.8.8
+main: fr.evhiliko.bridge.Main
